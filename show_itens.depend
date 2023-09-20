@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1681860903 source:c:\www\faculdade\c\berenice\show_itens\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1687879902 source:c:\faculdade\show_itens\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"function.c"
+
+1687817339 c:\faculdade\show_itens\header.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
+1687882383 c:\faculdade\show_itens\function.c
+	"header.h"
+
